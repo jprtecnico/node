@@ -5,4 +5,4 @@ http.createServer(function (request, response) {
     response.end('Joerlane P. Rezende');
 }).listen(8080);
  
-console.log('Server started port:8080');
+console.log('Server started porta:8080');
